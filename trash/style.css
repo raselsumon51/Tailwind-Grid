@@ -1,0 +1,33 @@
+:root {
+    --gray:#ECF0F3;
+    --btn1:#2FF093;
+    --btn2: #29282D;
+}
+/* body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.lat{
+    padding: 0px;
+} */
+
+.bg-gray {
+    background-color: var(--gray);
+}
+
+.my-info{
+    list-style: none;
+}
+.btn1{
+    background-color: var(--btn1);
+    font-size: 15px;
+    width: 250px;
+}
+
+.btn2 {
+    background-color: var(--btn2);
+    font-size: 15px;
+    width: 250px;
+    color: white;
+}
